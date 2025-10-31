@@ -1,5 +1,9 @@
 # 🚀 Desafio de Projeto — Integrando Dados com MySQL Azure e Transformando com Power BI  
 
+![Image](https://github.com/user-attachments/assets/37db8147-be36-4fc7-9767-600317ae8f6e)
+
+---
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40"/> 
@@ -7,6 +11,8 @@
 </div>  
 
 ---
+
+
 
 ## 📑 Sumário  
 
